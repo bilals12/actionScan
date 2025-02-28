@@ -57,7 +57,7 @@ GITHUB_ORG=your_github_organization
 
 ```bash
 # Get list of repositories
-python repos..py --org-only
+python repos.py
 ```
 
 ### 3. Collect Workflows
